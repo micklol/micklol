@@ -38,7 +38,7 @@
 
 ---
 
-⭐️ *Em constante aprendizado e evolução!*## 👋
+⭐️ *Em constante aprendizado e evolução!👋
 
 <!--
 **micklol/micklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

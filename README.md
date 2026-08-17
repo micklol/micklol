@@ -1,4 +1,4 @@
-# Olá, mundo! Eu sou o [Michael] 👋
+Olá, mundo! Eu sou o [Michael] 👋
 
 🎓 **Estudante do 2º Ano do Ensino Médio Técnico em Internet**  
 🚀 Apaixonado por tecnologia, desenvolvimento web e resolução de problemas através do código. Atualmente focado em construir uma base sólida em desenvolvimento Full Stack e infraestrutura.
